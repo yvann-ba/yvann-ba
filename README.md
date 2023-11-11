@@ -5,12 +5,13 @@
 #### 😁 Interests:
 - AI, especially Natural Language Processing and image/video generation.
 
-#### 📫 Get In Touch:
-- Email: [barbot.yvann@gmail.com](mailto:barbot.yvann@gmail.com)
-- LinkedIn: [Yvann Barbot](https://www.linkedin.com/in/yvann-barbot/)
 
 #### 📝 My Latest Article on Medium
 - [Build AI Chatbot w/ Langchain](https://medium.com/better-programming/build-a-chatbot-on-your-csv-data-with-langchain-and-openai-ed121f85f0cd) | 60K+ reading, Medium-curated🌟
+
+#### 📫 Get In Touch:
+- Email: [barbot.yvann@gmail.com](mailto:barbot.yvann@gmail.com)
+- LinkedIn: [Yvann Barbot](https://www.linkedin.com/in/yvann-barbot/)
 
 ![](https://github-readme-stats.vercel.app/api?username=yvann-ba&show_icons=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yvann-ba&layout=compact)
