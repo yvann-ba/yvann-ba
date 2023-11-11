@@ -3,11 +3,11 @@
 🎓 **Student at 42 School, Angoulême | 18 Years Old**
 
 #### 😁 Interests:
-- AI, especially Natural Language Processing and image/video generation.
+- Artificial Intelligence, especially Natural Language Processing and image/video generation 🤖
 
 
 #### 📝 My Latest Article on Medium
-- [Build AI Chatbot w/ Langchain](https://medium.com/better-programming/build-a-chatbot-on-your-csv-data-with-langchain-and-openai-ed121f85f0cd) | 60K+ reading, Medium-curated🌟
+- [Build AI Chatbot w/ Langchain](https://medium.com/better-programming/build-a-chatbot-on-your-csv-data-with-langchain-and-openai-ed121f85f0cd) | **60K+ reading, Medium-curated🌟**
 
 #### 📫 Get In Touch:
 - Email: [barbot.yvann@gmail.com](mailto:barbot.yvann@gmail.com)
