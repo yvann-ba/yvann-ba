@@ -1,16 +1,17 @@
-### Hi there 👋
+# 👋 Hi, I'm Yvann!
 
-<!--
-**yvann-ba/yvann-ba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Student at 42 School, Angoulême | 18 Years Old**
 
-Here are some ideas to get you started:
+#### 😁 Interests:
+- Artificial Intelligence, especially Natural Language Processing and image/video generation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📫 Get In Touch:
+- Email: [barbot.yvann@gmail.com](mailto:barbot.yvann@gmail.com)
+- LinkedIn: [Yvann Barbot](https://www.linkedin.com/in/yvann-barbot/)
+
+#### 📝 My Latest Article on Medium
+- [Build AI Chatbot w/ Langchain](https://medium.com/better-programming/build-a-chatbot-on-your-csv-data-with-langchain-and-openai-ed121f85f0cd) | 60K+ reading, Medium-curated🌟
+
+![](https://github-readme-stats.vercel.app/api?username=yvann-ba&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yvann-ba&layout=compact)
+
