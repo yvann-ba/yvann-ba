@@ -3,7 +3,7 @@
 🎓 **Student at 42 School, Angoulême | 18 Years Old**
 
 #### 😁 Interests:
-- Artificial Intelligence, especially Natural Language Processing and image/video generation 🤖
+- Artificial Intelligence, especially Natural Language Processing and generative art/video generation 🤖
 
 
 #### 📝 My Latest Article on Medium
