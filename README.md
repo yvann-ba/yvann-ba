@@ -14,5 +14,3 @@
 - LinkedIn: [Yvann Barbot](https://www.linkedin.com/in/yvann-barbot/)
 
 ![](https://github-readme-stats.vercel.app/api?username=yvann-ba&show_icons=true)
-[![ybarbot's 42 stats](https://badge42.coday.fr/api/v2/clrummz9e490201p46utleuix/stats?cursusId=21&coalitionId=220)](https://github.com/Coday-meric/badge42)
-
