@@ -7,7 +7,7 @@
 
 
 #### 📝 My Latest Article on Medium
-- [Build AI Chatbot w/ Langchain](https://medium.com/better-programming/build-a-chatbot-on-your-csv-data-with-langchain-and-openai-ed121f85f0cd) | **80 000+ reading, Medium-curated🌟**
+- [Build AI Chatbot w/ Langchain](https://medium.com/better-programming/build-a-chatbot-on-your-csv-data-with-langchain-and-openai-ed121f85f0cd) | **90 000+ reading, Medium-curated🌟**
 
 #### 📫 Get In Touch:
 - Email: [barbot.yvann@gmail.com](mailto:barbot.yvann@gmail.com)
