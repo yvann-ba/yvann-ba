@@ -12,4 +12,4 @@
 ---
 🎓 **Currently Student at [42 School](https://42.fr/en/homepage/) & Working part-time at Station F with [Mago](https://www.linkedin.com/company/magostudio?trk=blended-typeahead)**
 
-![](https://github-readme-stats.vercel.app/api?username=yvann-ba&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?username=yvann-ba&show_icons=true" alt="GitHub Stats" width="300px" height="150px">
