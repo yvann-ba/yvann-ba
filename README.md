@@ -1,6 +1,5 @@
-### 👋 Hey, I'm Yvann!
 
-#### From creating custom nodes to developing workflows in ComfyUI, I specialize in AI animation tools.<br>I share insights through tutorials and articles, and offer consulting services as an AI Artist/ComfyUI Dev
+### From creating custom nodes to developing workflows in ComfyUI, I specialize in AI animation tools.<br>I share insights through tutorials and articles, and offer consulting services as an AI Artist/ComfyUI Dev
 ---
 
 #### My Workflows and Tutorials for AI Animation:
