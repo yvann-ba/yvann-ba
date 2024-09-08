@@ -6,7 +6,7 @@
 - [ComfyUI Vid2Vid Automation Tutorial](https://youtu.be/Wx9TLb95Nh4?si=cSF4843db9wEwfmS)
 
 #### 📝 My Latest Article on Medium:
-- [Build AI Chatbot w/ Langchain](https://medium.com/better-programming/build-a-chatbot-on-your-csv-data-with-langchain-and-openai-ed121f85f0cd) | **90 000+ reading, Medium-curated🌟**
+- [Build AI Chatbot w/ Langchain](https://medium.com/better-programming/build-a-chatbot-on-your-csv-data-with-langchain-and-openai-ed121f85f0cd) | **100 000+ reading, Medium-curated🌟**
 
 
 ---
