@@ -1,7 +1,6 @@
 # 👋 Hey, I'm Yvann!
 
-#### I develop AI animation tools in ComfyUI, creating custom nodes and developing technical workflows.
-I share my work through tutorials and articles on how to implement it, and also provide consulting services for AI animation/ComfyUI Dev
+#### I develop AI animation tools in ComfyUI, creating custom nodes and developing technical workflows. I share my work through tutorials and articles, and also provide consulting services as AI Artist/ComfyUI Dev
 ---
 🎓 **Currently Student at [42 School](https://42.fr/en/homepage/) & Working part-time at Station F with [Mago](https://www.linkedin.com/company/magostudio?trk=blended-typeahead)**
 
