@@ -3,7 +3,7 @@
 ---
 
 #### My Workflows and Tutorials for AI Animation:
-- [Youtube Channel](https://www.youtube.com/@yvann.mp4)
+- [Youtube Channel 🎥](https://www.youtube.com/@yvann.mp4)
 
 ---
 🎓 Studying Computer Science at [42 School](https://42.fr/en/homepage/) & Working part-time at Station F with [Mago](https://www.mago.studio/)  
