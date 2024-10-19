@@ -1,9 +1,9 @@
 
-### From creating custom nodes to developing workflows in ComfyUI, I specialize in AI animation tools 🔧<br>I share insights through tutorials and articles, and offer consulting services as an AI Artist/ComfyUI Dev
+#### From creating custom nodes to developing workflows in ComfyUI, I specialize in AI animation tools 🔧<br>I share through tutorials, code, articles, and offer consulting services as an AI Artist/ComfyUI Dev
 ---
 
 #### My Workflows and Tutorials for AI Animation:
-- [ComfyUI Vid2Vid Automation Tutorial](https://youtu.be/Wx9TLb95Nh4?si=cSF4843db9wEwfmS)
+- [Youtube Channel](https://www.youtube.com/@yvann.mp4)
 
 #### 📝 My Latest Article on Medium:
 - [Build AI Chatbot w/ Langchain](https://medium.com/better-programming/build-a-chatbot-on-your-csv-data-with-langchain-and-openai-ed121f85f0cd) | **100 000+ reading, Medium-curated🌟**
