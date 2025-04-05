@@ -1,5 +1,5 @@
 
-#### From creating custom nodes to developing workflows in ComfyUI, I specialize in AI animation tools 🔧<br>I share through tutorials, code, articles, and offer consulting services as an AI Artist/ComfyUI Dev
+#### From creating custom nodes to developing workflows in ComfyUI, I specialize in AI building AI tools 🔧<br>I share through tutorials, code, articles, and offer consulting services as an AI Artist/ComfyUI Dev/Python Dev
 ---
 
 #### My Workflows and Tutorials for AI Animation in ComfyUI:
