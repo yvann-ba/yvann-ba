@@ -6,7 +6,7 @@
 
 </div>
 <div align="center">
-  <img align="right" height="110" src="https://github.com/42data/badges/blob/main/level/level11.png?raw=true" />
+  <img align="right" height="80" src="https://github.com/42data/badges/blob/main/level/level11.png?raw=true" />
   <h4 align="left">Studying Computer Science at <a href="https://42.fr/">42 Paris</a> & Working at Station F with <a href="https://www.mago.studio/">Mago</a> as AI Engineer</h4>
 </div>
 <div align="left">
