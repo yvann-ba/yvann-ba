@@ -1,4 +1,4 @@
-<h3 align="center">🛠️ AI developer specialized in ComfyUI workflows/nodes and LangGraph agents 🧠</h3>
+<h3 align="center">🛠️ AI developer specialized in ComfyUI workflows/nodes and AI Agents 🧠</h3>
 <h4 align="center">I craft AI systems that build creative solutions, sharing insights through <img src="https://github.com/user-attachments/assets/09955c96-e167-456b-b729-ef2ad1bee8aa" width="15" height="10" style="vertical-align: middle;"><a href="https://www.youtube.com/@yvann_ba">tutorials</a> and <img src="https://github.com/user-attachments/assets/5ae25a97-ed0c-43ef-864a-269aa1168176" width="12" height="12" style="vertical-align: middle;"><a href="https://medium.com/@yvann-ba">articles</a></h4>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=yvann-ba&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues,prs&count_private=true&include_all_commits=true" alt="GitHub Stats" width="435px">
