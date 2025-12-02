@@ -1,5 +1,5 @@
-<h3 align="center">🛠️ AI developer specialized in ComfyUI workflows/nodes and AI Agents 🧠</h3>
-<h4 align="center">I craft AI systems that build creative solutions, sharing insights through <img src="https://github.com/user-attachments/assets/09955c96-e167-456b-b729-ef2ad1bee8aa" width="15" height="10" style="vertical-align: middle;"><a href="https://www.youtube.com/@yvann_ba">tutorials</a> and <img src="https://github.com/user-attachments/assets/5ae25a97-ed0c-43ef-864a-269aa1168176" width="12" height="12" style="vertical-align: middle;"><a href="https://medium.com/@yvann-ba">articles</a></h4>
+<h3 align="center">🌍 Building Geospatial infrastructure for AI</h3>
+<h4 align="center">Co-founder at TerraLab, Creating real-time geospatial simulation environments</h4>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=yvann-ba&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues,prs&count_private=true&include_all_commits=true" alt="GitHub Stats" width="435px">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvann-ba&layout=compact&title_color=ffc857&text_color=daf7dc&bg_color=151515&hide=css,html,php" height="140" alt="Languages" />
@@ -7,7 +7,7 @@
 </div>
 <div align="center">
   <img align="right" height="80" src="https://github.com/42data/badges/blob/main/level/level11.png?raw=true" />
-  <h4 align="left">Studying Computer Science at <a href="https://42.fr/">42 Paris</a> & Working at Station F with <a href="https://www.mago.studio/">Mago</a> as AI Engineer</h4>
+  <h4 align="left">Studying Computer Science at <a href="https://42.fr/">42 Paris</a> &Operating from <a href="https://stationf.co/">Station F</a></h4>
 </div>
 <div align="left">
   <img align="left" alt="ComfyUI" width="30px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/f60fc411-ca71-4fc9-98cd-24024825d6e2" />
