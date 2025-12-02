@@ -1,13 +1,12 @@
 <h3 align="center">🌍 Building Geospatial infrastructure for AI</h3>
-<h4 align="center">Co-founder at TerraLab, Creating real-time geospatial simulation environments</h4>
+<h4 align="center">Co-founder at [TerraLab](https://www.terra-lab.ai/), Creating real-time geospatial simulation environments</h4>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yvann-ba&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues,prs&count_private=true&include_all_commits=true" alt="GitHub Stats" width="435px">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvann-ba&layout=compact&title_color=ffc857&text_color=daf7dc&bg_color=151515&hide=css,html,php" height="140" alt="Languages" />
+
 
 </div>
 <div align="center">
   <img align="right" height="80" src="https://github.com/42data/badges/blob/main/level/level11.png?raw=true" />
-  <h4 align="left">Studying Computer Science at <a href="https://42.fr/">42 Paris</a> &Operating from <a href="https://stationf.co/">Station F</a></h4>
+  <h4 align="left">Studying Computer Science at <a href="https://42.fr/">42 Paris</a> & Operating from <a href="https://stationf.co/">Station F</a></h4>
 </div>
 <div align="left">
   <img align="left" alt="ComfyUI" width="30px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/f60fc411-ca71-4fc9-98cd-24024825d6e2" />
