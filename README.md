@@ -1,5 +1,5 @@
 <h3 align="center">🌍 Building Geospatial infrastructure for AI</h3>
-<h4 align="center">Co-founder at [TerraLab](https://www.terra-lab.ai/), Creating real-time geospatial simulation environments</h4>
+<h4 align="center">Co-founder at <a href="https://www.terra-lab.ai/">TerraLab</a>, Creating real-time geospatial simulation environments</h4>
 <div align="center">
 
 
