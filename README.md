@@ -7,6 +7,9 @@
 <div align="center">
   <img align="right" height="80" src="https://github.com/42data/badges/blob/main/level/level11.png?raw=true" />
   <h4 align="left">Studying Computer Science at <a href="https://42.fr/">42 Paris</a> & Operating from <a href="https://stationf.co/">Station F</a></h4>
+  <h4 align="left">Contact me on <a href="https://www.linkedin.com/in/yvann-barbot/">Linkedin</a> or by mail at barbot.yvann@gmail.com if you need help or advices on your projects (:</a></h4>
+
+  
 </div>
 <div align="left">
   <img align="left" alt="ComfyUI" width="30px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/f60fc411-ca71-4fc9-98cd-24024825d6e2" />
