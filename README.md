@@ -5,8 +5,7 @@
 
 </div>
 <div align="center">
-  <img align="right" height="80" src="https://github.com/42data/badges/blob/main/level/level11.png?raw=true" />
-  <h4 align="left">Studying Computer Science at <a href="https://42.fr/">42 Paris</a> & Operating from <a href="https://stationf.co/">Station F</a></h4>
+  <h4 align="left">Studied Computer Science at <a href="https://42.fr/">42 Paris</a> & Operating from <a href="https://stationf.co/">Station F</a></h4>
   <h4 align="left">Contact me on <a href="https://www.linkedin.com/in/yvann-barbot/">Linkedin</a> or by mail at barbot.yvann@gmail.com if you need help or advices on your projects (:</a></h4>
 
   
