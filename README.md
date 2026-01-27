@@ -1,4 +1,4 @@
-<h3 align="center">🌍 Building Geospatial infrastructure for AI</h3>
+<h3 align="center">🌍 Building AI Systems for Geospatial</h3>
 <h4 align="center">Co-founder at <a href="https://www.terra-lab.ai/">TerraLab</a></h4>
 <div align="center">
 
